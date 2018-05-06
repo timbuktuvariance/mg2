@@ -17,7 +17,7 @@ pygmentsstyle = "monokai"
 twittercard = "summary_large_image"
 [[params.mainmenu]]
 link = "/posts"
-text = "writing"
+text = "news"
 [[params.mainmenu]]
 link = "/about"
 text = "Contact"
