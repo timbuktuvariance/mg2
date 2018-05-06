@@ -1,18 +1,13 @@
 ---
-title: Code Poetry
+title: Gitbook
 date: 2018-02-13 13:56:12 -0500
-showDate: true
+showDate: false
 tags:
-- poem
-- code
+- gitbook
+- technology
+- education
 
 ---
-Pseudo `code` poem.
+Gitbook:
 
-```js
-if (this === that):
-    try write_new_poem()
-
-    except not_a_poet as e:
-        return
-```
+[https://www.gitbook.com/](https://www.gitbook.com/ "https://www.gitbook.com/")
