@@ -1,7 +1,7 @@
 baseurl = "https://miraglobal.com/"
 languageCode = "en-us"
 theme = "sam"
-title = "Call me Sam"
+title = "miraglobal"
 [params]
 clickablephotos = true
 dateform = "Mon Jan 02, 2006"
