@@ -5,12 +5,16 @@ type: page
 
 ---
 Hello, 
-<html>
-<form action="https://formspree.io/your@email.com"
-      method="POST">
-    <input type="text" name="name">
-    <input type="email" name="_replyto">
-    <input type="submit" value="Send">
-</form> 
-</html>
 
+<html> 
+
+<form method="POST" action="https://formspree.io/timbuktuvariance@gmail.com">
+
+<input name="email" placeholder="Your email" type="email">
+
+  <textarea name="message" placeholder="Your message"></textarea>
+
+  <button type="submit">Send</button>
+
+</form>
+</html>
