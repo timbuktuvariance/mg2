@@ -19,8 +19,5 @@ twittercard = "summary_large_image"
 link = "/posts"
 text = "writing"
 [[params.mainmenu]]
-link = "/gallery"
-text = "gallery"
-[[params.mainmenu]]
 link = "/about"
-text = "who is sam?"
+text = "Contact"
