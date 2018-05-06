@@ -1,4 +1,4 @@
-baseurl                 = "https://timbuktuvariance.github.io/"               # Your domain name. Must end with "/"
+baseurl                 = "https://timbuktuvariance.github.io/mg2web/"               # Your domain name. Must end with "/"
 languageCode            = "en-us"
 title                   = "Call me Sam"
 theme                   = "sam"
