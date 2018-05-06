@@ -12,7 +12,11 @@ Hello,
 
 <input name="email" placeholder="Your email" type="email">
 
+<br>
+
   <textarea name="message" placeholder="Your message"></textarea>
+
+<br>
 
   <button type="submit">Send</button>
 
