@@ -1,11 +1,12 @@
 ---
-title: "Long Form Post"
-date: 2018-03-08T20:18:53-05:00
+title: Long Form Post
+date: 2018-03-08 20:18:53 -0500
 showDate: true
-draft: false
-tags: ["blog","code"]
----
+tags:
+- blog
+- code
 
+---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cursus eget nunc scelerisque viverra. Quam vulputate dignissim suspendisse in est ante in nibh mauris. Pharetra magna ac placerat vestibulum lectus mauris. Eget lorem dolor sed viverra ipsum. Elementum nisi quis eleifend quam adipiscing. Aliquet nec ullamcorper sit amet risus. Auctor neque vitae tempus quam pellentesque. Tincidunt lobortis feugiat vivamus at augue. Leo vel orci porta non pulvinar neque laoreet. Non enim praesent elementum facilisis leo vel.
 
 > In nibh mauris cursus mattis. Enim ut sem viverra aliquet eget sit. Risus sed vulputate odio ut enim. Id interdum velit laoreet id.

@@ -1,9 +1,11 @@
 ---
-title: "Dear Jane, regarding Mr. Bennet"
-date: 2018-02-11T12:34:41-05:00
+title: Dear Jane, regarding Mr. Bennet
+date: 2018-02-11 12:34:41 -0500
 showDate: true
-draft: false
-tags: ["classic","story"]
+tags:
+- classic
+- story
+
 ---
 # Chapter One
 

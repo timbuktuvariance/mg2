@@ -1,11 +1,12 @@
 ---
-title: "A Poem"
-date: 2018-02-01T12:35:11-05:00
+title: A Poem
+date: 2018-02-01 12:35:11 -0500
 showDate: true
-draft: false
-tags: ["classic","poem"]
----
+tags:
+- classic
+- poem
 
+---
 Now pleasing sleep had seal'd each mortal eye,  
 Stretch'd in the tents the Grecian leaders lie:  
 The immortals slumber'd on their thrones above;  

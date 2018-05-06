@@ -1,11 +1,12 @@
 ---
-title: "Code Poetry"
-date: 2018-02-13T13:56:12-05:00
+title: Code Poetry
+date: 2018-02-13 13:56:12 -0500
 showDate: true
-draft: false
-tags: ["poem","code"]
----
+tags:
+- poem
+- code
 
+---
 Pseudo `code` poem.
 
 ```js
