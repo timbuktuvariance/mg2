@@ -4,7 +4,7 @@ theme = "sam"
 title = "miraglobal"
 [params]
 clickablephotos = true
-dateform = "Monday 2nd January 2006"
+dateform = "2 January 2006"
 dateformfull = "Mon Jan 2 2006 15:04:05 EST"
 description = "About Open Source and Education"
 favicon = "/sam.ico"
