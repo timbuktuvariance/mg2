@@ -1,7 +1,7 @@
 +++
 date = "2018-05-14T10:56:21+00:00"
 showDate = true
-tags = ["blog", "story"]
+tags = ["references", "opensource"]
 title = "references"
 type = ""
 
