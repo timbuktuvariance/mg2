@@ -6,12 +6,11 @@ title = "references"
 type = ""
 
 +++
+Baratta, N. C. (2017). Sharing America’s code. Retrieved May 7, 2018, 	from [https://opensource.com/article/17/5/sharing-americas-code]	(https://opensource.com/article/17/5/sharing-americas-code 	"https://opensource.com/article/17/5/sharing-americas-code")
 
-	Baratta, N. C. (2017). Sharing America’s code. Retrieved May 7, 2018, from [https://opensource.com/article/17/5/sharing-americas-code](https://opensource.com/article/17/5/sharing-americas-code "https://opensource.com/article/17/5/sharing-americas-code")
+Bellville, R. (1999). Linux in Schools | Linux Journal. Retrieved May 9, 2018, from [https://www.linuxjournal.com/article/2955](https://www.linuxjournal.com/article/2955 "https://www.linuxjournal.com/article/2955")
 
-	Bellville, R. (1999). Linux in Schools | Linux Journal. Retrieved May 9, 2018, from [https://www.linuxjournal.com/article/2955](https://www.linuxjournal.com/article/2955 "https://www.linuxjournal.com/article/2955")
-
-	Booker, E. (2013). 3 Reasons Linux Doesn’t Star In U.S. Schools. Retrieved May 9, 2018, from [https://www.informationweek.com/education/campus-infrastructure/3-reasons-linux-doesnt-star-in-us-school/240155736](https://www.informationweek.com/education/campus-infrastructure/3-reasons-linux-doesnt-star-in-us-school/240155736 "https://www.informationweek.com/education/campus-infrastructure/3-reasons-linux-doesnt-star-in-us-school/240155736")
+Booker, E. (2013). 3 Reasons Linux Doesn’t Star In U.S. Schools. Retrieved May 9, 2018, from [https://www.informationweek.com/education/campus-infrastructure/3-reasons-linux-doesnt-star-in-us-school/240155736](https://www.informationweek.com/education/campus-infrastructure/3-reasons-linux-doesnt-star-in-us-school/240155736 "https://www.informationweek.com/education/campus-infrastructure/3-reasons-linux-doesnt-star-in-us-school/240155736")
 
 Bull, G., Bell, R., & Kajder, S. (2003). The Role of “Computers in the Schools” Revisited. _Computers in the Schools_, _20_(1–2), 59–76. [https://doi.org/](https://doi.org/ "https://doi.org/")[10.1300/J025v20n01_05](https://doi.org/10.1300/J025v20n01_05)
 
