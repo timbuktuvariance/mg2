@@ -1,10 +1,15 @@
 +++
-date = "2018-05-14T10:56:21Z"
+date = "2018-05-14T10:56:21+00:00"
 showDate = true
 tags = ["references", "opensource"]
 title = "references"
+type = ""
 
 +++
+p {  
+    text-indent: 50px;  
+}
+
 Baratta, N. C. (2017). Sharing America’s code. Retrieved May 7, 2018, from [https://opensource.com/article/17/5/sharing-americas-code](https://opensource.com/article/17/5/sharing-americas-code "https://opensource.com/article/17/5/sharing-americas-code")
 
 Bellville, R. (1999). Linux in Schools | Linux Journal. Retrieved May 9, 2018, from [https://www.linuxjournal.com/article/2955](https://www.linuxjournal.com/article/2955 "https://www.linuxjournal.com/article/2955")
