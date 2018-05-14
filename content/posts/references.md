@@ -4,6 +4,7 @@ draft = true
 showDate = true
 tags = ["blog", "story"]
 title = "references"
+type = ""
 
 +++
 
