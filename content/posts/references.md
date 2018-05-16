@@ -1,9 +1,8 @@
 +++
-date = "2018-05-14T10:56:21+00:00"
+date = "2018-05-14T10:56:21Z"
 showDate = true
 tags = ["references", "opensource"]
 title = "references"
-type = ""
 
 +++
 Baratta, N. C. (2017). Sharing America’s code. Retrieved May 7, 2018, 	from \[https://opensource.com/article/17/5/sharing-americas-code\]	(https://opensource.com/article/17/5/sharing-americas-code 	"https://opensource.com/article/17/5/sharing-americas-code")
