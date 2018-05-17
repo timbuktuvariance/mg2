@@ -6,4 +6,4 @@ title = "map of linux experiences in school"
 type = ""
 
 +++
-soon
+Map showing regions that have implemented or tried to implement a linux OS in schools
