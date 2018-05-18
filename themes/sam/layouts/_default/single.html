@@ -1,7 +1,4 @@
 {{ partial "head.html" . }}<body><div class="wrap"><div class="section" id="title">{{ .Title }}</div>
-{{ if isset .Params "id" }}
-{{ partial .Params.id . }}
-{{ else }}  
 <div class="section" id="content">{{ .Content }}</div>{{ if .Site.Params.mainMenu }}<div class="section bottom-menu"><hr/><p>{{ range first 1 .Site.Params.mainMenu }}<a href="{{ .link }}">{{ .text }}</a>{{ end }}
 {{ range after 1 .Site.Params.mainMenu }}
 &#183; <a href="{{ .link }}">{{ .text }}</a>{{ end }}
