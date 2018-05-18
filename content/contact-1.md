@@ -1,6 +1,8 @@
 +++
-date = "2018-05-18T11:03:29+00:00"
+date = "2018-05-18T11:03:29Z"
+id = "contact"
 title = "contact"
-id = "contact" 
+type = "page"
+
 +++
 Get in touch
