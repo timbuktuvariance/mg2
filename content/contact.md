@@ -6,4 +6,4 @@ type = "page"
 +++
 # We are here 
 
-Please feel free to contact us
+Contact form
