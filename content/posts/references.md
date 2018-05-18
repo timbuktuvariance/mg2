@@ -1,6 +1,6 @@
 +++
 date = "2018-05-14T10:56:21Z"
-showDate = true
+showDate = false
 tags = ["references", "opensource"]
 title = "references"
 
