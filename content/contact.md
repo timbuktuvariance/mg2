@@ -6,4 +6,4 @@ type = "page"
 +++
 # We are here 
 
-Contact form
+Contact form is
