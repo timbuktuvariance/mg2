@@ -3,11 +3,11 @@ languageCode = "en-us"
 theme = "sam"
 title = "miraglobal"
 [params]
-email = "timbuktuvariance@gmail.com"
 clickablephotos = true
 dateform = "2006-01-02T00:00:00+00:00"
 dateformfull = "Mon Jan 2 2006 15:04:05 EST"
 description = "About Open Source and Education"
+email = "timbuktuvariance@gmail.com"
 favicon = "/sam.ico"
 footertext = "This is a fast static site"
 galleryfolder = "images/"
