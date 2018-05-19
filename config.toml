@@ -17,8 +17,8 @@ pygmentscodefences = true
 pygmentsstyle = "fruity"
 twittercard = "summary_large_image"
 [[params.mainmenu]]
+link = "gallery"
+text = "Contact"
+[[params.mainmenu]]
 link = "/posts"
 text = "news"
-[[params.mainmenu]]
-link = "/about"
-text = "Contact"
