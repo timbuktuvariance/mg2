@@ -13,8 +13,11 @@ galleryfolder = "images/"
 homepage = "main"
 primaryimage = "/tn.png"
 pygmentscodefences = true
-pygmentsstyle = "fruity"
+pygmentsstyle = "monokai"
 twittercard = "summary_large_image"
+[[params.mainmenu]]
+link = "gallery"
+text = "contact"
 [[params.mainmenu]]
 link = "/posts"
 text = "news"
