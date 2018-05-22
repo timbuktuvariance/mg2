@@ -5,4 +5,4 @@ tags = ["blog", "story"]
 title = "map of linux experiences in school"
 
 +++
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/BlankMap-World6.svg/640px-BlankMap-World6.svg.png)Map showing regions that have implemented or tried to implement a linux OS in schools
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/BlankMap-World6.svg/640px-BlankMap-World6.svg.png)
