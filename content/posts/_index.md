@@ -5,6 +5,6 @@ showDate: false
 tags: []
 
 ---
-Welcome to the blog section! 
+Welcome to the blog section!
 
-News about Open source and Education
+News 
