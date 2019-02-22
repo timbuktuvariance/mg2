@@ -1,4 +1,5 @@
 ---
+label: posts
 hide_body: false
 is_partial: false
 fields:
@@ -34,3 +35,8 @@ fields:
   type: boolean
   hidden: false
   default: true
+pages:
+- content/posts/code-poetry.md
+- content/posts/references.md
+- content/posts/map-of-linux-experiences-in-school.md
+- content/posts/_index.md
